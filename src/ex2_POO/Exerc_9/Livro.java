@@ -1,4 +1,4 @@
-package Exerc_9;
+package ex2_POO.Exerc_9;
 
 public class Livro {
     private int ANO_ATUAL = 2024;

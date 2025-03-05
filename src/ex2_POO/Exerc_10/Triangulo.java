@@ -1,4 +1,4 @@
-package Exerc_10;
+package ex2_POO.Exerc_10;
 
 public class Triangulo {
     private Double base;

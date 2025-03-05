@@ -1,4 +1,4 @@
-package Exerc_8;
+package ex2_POO.Exerc_8;
 
 public class Bola {
     private String cor;

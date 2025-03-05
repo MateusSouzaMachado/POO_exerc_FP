@@ -1,4 +1,4 @@
-package Exerc_6;
+package ex2_POO.Exerc_6;
 
 public class Retangulo {
     private Double base;
